@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bekzat91
-- 👀 I’m interested in Flutter, Java Spring
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a Flutter developer
+- 📫 You can reach me at bekzat91@gmail.com
 
 <!---
 bekzat91/bekzat91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
